@@ -1,0 +1,60 @@
+body {
+  padding: 32px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+
+.sub-title {
+  margin-bottom: 20px;
+}
+
+.searchbar {
+  width: 100%;
+  padding: 16px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  border: 1px solid #bbbbbb;
+}
+
+.list {
+  margin: auto;
+}
+
+table {
+  width: 100%;
+}
+
+.table-row {
+  justify-content: space-between;
+  display: flex;
+  padding: 15px;
+}
+
+.table-title {
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+}
